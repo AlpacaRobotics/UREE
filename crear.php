@@ -84,7 +84,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                     <div class="page-header">
                         <h2>Agregar Equipo</h2>
                     </div>
-                    <p>Por favor completar el formulario para agregar un nuevo equipo a su cuenta.</p>
+                    <p>Por favor completar el formulario para agregar un nuevo equipo a su cuenta. Tenga en cuenta que los equipos sean logicos</p>
                     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
                         <div class="form-group">
                             <label>Nombre del equipo</label>
