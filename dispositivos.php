@@ -44,7 +44,7 @@ if($_SESSION["username"]=='admin'){
                 <div class="row">
                     <div class="col-md-12">
                         <div class="page-header clearfix">
-                            <h2 class="pull-left">Detalle de los Dispositivos</h2>
+                            <h2 class="pull-left">Detalle de los Dispositivos con los que cuenta el Usuario</h2>
                             <a href="crear.php" class="btn btn-success pull-right">Agregar un nuevo dispositivo</a>
                         </div>
                         <?php
