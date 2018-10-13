@@ -40,7 +40,7 @@ exit;
                         <h3 class="titulos">Bienvenido <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></h3><br>
                         <p>UREE es un proyecto que tiene como objetivo el uso de la energía <br>
                             de forma consciente y la reducción del consumo con el motivo de <br>
-                        reducir el gasto enegético y proteger el medio ambiente.</p><br><hr>
+                        reducir el gasto enegético y proteger el medio ambiente. En este caso se esta cambiando el codigo con fines didacticos</p><br><hr>
                         <p class="botones_index">
                             <a href="logout.php" id="botoni_1">Logout</a>
                             <a href="perfil.php" id="botoni_2">Administrar Perfil</a>
